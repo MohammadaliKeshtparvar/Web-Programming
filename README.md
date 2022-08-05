@@ -2,8 +2,8 @@
 
 # Table of Contents
 - [Introduction](https://github.com/mohammadtavakoli78/Web-Programming#introduction)
-- [Frontend](https://github.com/mohammadtavakoli78/Web-Programming#Frontend)
-- [Backend](https://github.com/mohammadtavakoli78/Web-Programming#Backend)
+- [Frontend](https://github.com/mohammadtavakoli78/Web-Programming#-Frontend)
+- [Backend](https://github.com/mohammadtavakoli78/Web-Programming-#Backend)
 - [Technologies](https://github.com/mohammadtavakoli78/Web-Programming#technologies)
 
 ## Introduction
