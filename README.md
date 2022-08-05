@@ -50,7 +50,8 @@ Some screen shots of the implemented website:
 Frontend has written in reactjs and nextjs and server-side rendering. [Codes are in this link](https://github.com/mohammadtavakoli78/Web-Programming/tree/master/frontend).
 
 ## 💻 Backend
-Backend has written in spring. [Codes are in this link](https://github.com/mohammadtavakoli78/Web-Programming/tree/master/backend).
+Backend has written in spring boot. [Codes are in this link](https://github.com/mohammadtavakoli78/Web-Programming/tree/master/backend).
+Set username and password of mysql server in [property file](https://github.com/mohammadtavakoli78/Web-Programming/blob/master/backend/src/main/resources/application.properties)
 
 ## Technologies
 Project is created with:
@@ -58,8 +59,10 @@ Project is created with:
 * Reactjs
 * Nextjs
 * SCSS
-* Java
-* Spring
+* Java 8(oracle JDK 1.8)
+* Spring boot
+* mysql
+* spring data
 
 
 ## Setup
