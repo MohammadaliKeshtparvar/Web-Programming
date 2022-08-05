@@ -56,5 +56,6 @@ Project is created with:
 * JavaScript
 * Reactjs
 * Nextjs
+* SCSS
 * Java
 * Spring
