@@ -5,6 +5,7 @@
 - [Frontend](https://github.com/mohammadtavakoli78/Web-Programming#-Frontend)
 - [Backend](https://github.com/mohammadtavakoli78/Web-Programming#-Backend)
 - [Technologies](https://github.com/mohammadtavakoli78/Web-Programming#technologies)
+- [Setup](https://github.com/mohammadtavakoli78/Web-Programming#Setup)
 
 ## Introduction
 This is final project of web programming which is implementing an online shop that we can create account, login to account, see products, buy products, filter them, search for a specific product and also we sould have an admin panel that we can edit products, add products, see users informations and ....<br>
@@ -59,3 +60,11 @@ Project is created with:
 * SCSS
 * Java
 * Spring
+
+
+## Setup
+For run frontend, use below commands:
+```
+$ npm install
+$ node server.js
+```
