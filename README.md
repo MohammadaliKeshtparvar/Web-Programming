@@ -51,6 +51,7 @@ Frontend has written in reactjs and nextjs and server-side rendering. [Codes are
 
 ## 💻 Backend
 Backend has written in spring boot. [Codes are in this link](https://github.com/mohammadtavakoli78/Web-Programming/tree/master/backend).
+
 Set username and password of mysql server in [property file](https://github.com/mohammadtavakoli78/Web-Programming/blob/master/backend/src/main/resources/application.properties)
 
 ## Technologies
@@ -63,6 +64,7 @@ Project is created with:
 * Spring boot
 * mysql
 * spring data
+* spring security
 
 
 ## Setup
