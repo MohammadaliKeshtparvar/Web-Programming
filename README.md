@@ -73,5 +73,3 @@ For run frontend, use below commands:
 $ npm install
 $ node server.js
 ```
-
-
